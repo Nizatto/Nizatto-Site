@@ -1,4 +1,4 @@
-url: https://nizatto.com
+url: https://nizatto.com/
 
 # Site settings
 title: Nizatto Digital Solutions
@@ -8,9 +8,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Lauren
   pic: 1
-  position: Lead Designer
+  position: Project Champion
   social:
     - title: twitter
       url: #
@@ -18,41 +18,66 @@ people:
       url: #
     - title: stack-overflow
       url: #
-
-- name: Larry Parker
+- name: David
   pic: 2
-  position: Lead Marketer
+  position: Web Design
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: stack-overflow
       url: #
-
-- name: Diana Petersen
+- name: Will
   pic: 3
-  position: Lead Developer
+  position: Wordpress Wizard
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: stack-overflow
       url: #
-
+# - name: Lauren
+#   pic: 1
+#   position: Project Champion
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
+# - name: David
+#     pic: 2
+#     position: Web Design
+#     social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
+#   - name: Will
+#     pic: 3
+#     position: Wordpress Wizard
+#     social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/nizatto/
   - title: facebook
-    url:
+    url: https://www.facebook.com/nizatto/
   - title: instagram
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.instagram.com/nizattodigital/
   - title: linkedin
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.linkedin.com/company/nizatto/
 
 # Postal address (add as many lines as necessary)
 address:
