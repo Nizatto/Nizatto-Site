@@ -48,36 +48,7 @@ people:
       url: #
     - title: stack-overflow
       url: #
-# - name: Lauren
-#   pic: 1
-#   position: Project Champion
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
-# - name: David
-#     pic: 2
-#     position: Web Design
-#     social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
-#   - name: Will
-#     pic: 3
-#     position: Wordpress Wizard
-#     social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
