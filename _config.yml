@@ -39,9 +39,9 @@ people:
     - title: stack-overflow
       url: #
  - name: Frankie
-  pic: 4
-  position: Happiness Coordinator
-  social:
+   pic: 4
+   position: Happiness Coordinator
+   social:
     - title: twitter
       url: #
     - title: facebook
