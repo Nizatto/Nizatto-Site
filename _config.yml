@@ -38,10 +38,10 @@ people:
       url: #
     - title: stack-overflow
       url: #
- - name: Frankie
-   pic: 4
-   position: Happiness Coordinator
-   social:
+- name: Frankie
+  pic: 4
+  position: Happiness Coordinator
+  social:
     - title: twitter
       url: #
     - title: facebook
